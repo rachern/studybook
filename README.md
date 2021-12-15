@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2021.12.15
+
+* leetcode-25 K个一组翻转链表
+  * [github](https://github.com/rachern/studybook-code/blob/main/algorithm/reverse-nodes-in-k-group.js)
+* leetcode-61 旋转链表
+  * [github](https://github.com/rachern/studybook-code/blob/main/algorithm/rotate-list.js)
+* leetcode-24 两两交换链表中的节点
+  * [github](https://github.com/rachern/studybook-code/blob/main/algorithm/swap-nodes-in-pairs.js)
+
 #### 2021.12.14
 
 * leetcode-92 反转链表II
