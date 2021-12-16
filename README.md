@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2021.12.16
+
+- leetcode-19 删除链表的倒数第N个节点
+  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-nth-node-from-end-of-list.js)
+- leetcode-83 删除排序链表中的重复元素
+  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-duplicates-from-sorted-list.js)
+- leetcode-82 删除排序链表中的重复元素II
+  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-duplicates-from-sorted-list-ii.js)
+
 #### 2021.12.15
 
 * leetcode-25 K个一组翻转链表
