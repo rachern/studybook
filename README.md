@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2021.12.17
+
+- leetcode-86 分隔链表
+  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/partition-list.js)
+- leetcode-138 复制带随机指针的链表
+  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/copy-list-with-random-pointer.js)
+
 #### 2021.12.16
 
 - leetcode-19 删除链表的倒数第N个节点
