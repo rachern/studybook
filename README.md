@@ -6,6 +6,18 @@
 
 ### Phase-1 算法
 
+#### 2021.12.18
+
+- leetcode-622 设计循环队列
+  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/design-circular-queue.js)
+- leetcode-641 设计循环双端队列
+  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/design-circular-deque.js)
+- leetcode-1670 设计前中后队列
+  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/design-front-middle-back-queue.js)
+- leetcode-206 反转链表
+  - [掘金](https://juejin.cn/post/7043039155751747592)
+  - [b站](https://www.bilibili.com/video/BV1WY411H7tw?spm_id_from=333.999.0.0)
+
 #### 2021.12.17
 
 - leetcode-86 分隔链表
