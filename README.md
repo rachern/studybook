@@ -6,14 +6,33 @@
 
 ### Phase-1 算法
 
+#### 2021.12.19
+
+- leetcode-92 反转链表II
+  - [掘金](https://juejin.cn/post/7043342152142684173)
+  - [b站](https://www.bilibili.com/video/BV1CL411j7Tx?spm_id_from=333.999.0.0)
+- leetcode-25 K 个一组翻转链表
+  - [掘金](https://juejin.cn/post/7043356968102133791)
+  - [b站](https://www.bilibili.com/video/BV1UL411j7Fq?spm_id_from=333.999.0.0)
+- leetcode-61 旋转链表
+  - [掘金](https://juejin.cn/post/7043411475075088421)
+  - [b站](https://www.bilibili.com/video/BV1734y167LA?spm_id_from=333.999.0.0)
+- leetcode-24 两两交换链表中的节点
+  - [掘金](https://juejin.cn/post/7043437438206738439)
+  - [b站](https://www.bilibili.com/video/BV1QF411q7qN?spm_id_from=333.999.0.0)
+- leetcode-933 最近的请求次数
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/number-of-recent-calls.js)
+  - [掘金](https://juejin.cn/post/7043465686366027783)
+  - [b站](https://www.bilibili.com/video/BV1eL4y1J7oR?spm_id_from=333.999.0.0)
+
 #### 2021.12.18
 
 - leetcode-622 设计循环队列
-  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/design-circular-queue.js)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/design-circular-queue.js)
 - leetcode-641 设计循环双端队列
-  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/design-circular-deque.js)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/design-circular-deque.js)
 - leetcode-1670 设计前中后队列
-  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/design-front-middle-back-queue.js)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/design-front-middle-back-queue.js)
 - leetcode-206 反转链表
   - [掘金](https://juejin.cn/post/7043039155751747592)
   - [b站](https://www.bilibili.com/video/BV1WY411H7tw?spm_id_from=333.999.0.0)
@@ -21,18 +40,18 @@
 #### 2021.12.17
 
 - leetcode-86 分隔链表
-  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/partition-list.js)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/partition-list.js)
 - leetcode-138 复制带随机指针的链表
-  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/copy-list-with-random-pointer.js)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/copy-list-with-random-pointer.js)
 
 #### 2021.12.16
 
 - leetcode-19 删除链表的倒数第N个节点
-  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-nth-node-from-end-of-list.js)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-nth-node-from-end-of-list.js)
 - leetcode-83 删除排序链表中的重复元素
-  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-duplicates-from-sorted-list.js)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-duplicates-from-sorted-list.js)
 - leetcode-82 删除排序链表中的重复元素II
-  - [code](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-duplicates-from-sorted-list-ii.js)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-duplicates-from-sorted-list-ii.js)
 
 #### 2021.12.15
 
