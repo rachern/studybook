@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2021.12.20
+
+- 面试题 17.09. 第 k 个数
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/get-kth-magic-number-lcci.js)
+  - [掘金](https://juejin.cn/post/7043826440273395720/)
+  - [b站](https://www.bilibili.com/video/BV1A44y1J71T/)
+
 #### 2021.12.19
 
 - leetcode-92 反转链表II
