@@ -6,6 +6,17 @@
 
 ### Phase-1 算法
 
+#### 2021.12.21
+
+- leetcode-859 亲密字符串
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/buddy-strings.js)
+  - [掘金](https://juejin.cn/post/7044149274719813640)
+  - [b站](https://www.bilibili.com/video/BV1tZ4y1X7qZ?spm_id_from=333.999.0.0)
+- leetcode-860 柠檬水找零
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/lemonade-change.js)
+  - [掘金](https://juejin.cn/post/7044178458653507615)
+  - [b站](https://www.bilibili.com/video/BV1sL4y1n7yY?spm_id_from=333.999.0.0)
+
 #### 2021.12.20
 
 - 面试题 17.09. 第 k 个数
