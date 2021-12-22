@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2021.12.22
+
+- leetcode-969 煎饼排序
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/pancake-sorting.js)
+  - [掘金](https://juejin.cn/post/7044573886448402468/)
+  - [b站](https://www.bilibili.com/video/BV1XT4y1f7Gd/)
+- leetcode-621 任务调度器
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/task-scheduler.js)
+
 #### 2021.12.21
 
 - leetcode-859 亲密字符串
