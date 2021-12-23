@@ -6,6 +6,16 @@
 
 ### Phase-1 算法
 
+#### 2021.12.23
+
+- leetcode-621 任务调度器
+  - [掘金](https://juejin.cn/post/7044932628666908680/)
+  - [b站](https://www.bilibili.com/video/BV1u44y177om/)
+- 面试题 03.04. 化栈为队
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/implement-queue-using-stacks-lcci.js)
+  - [掘金](https://juejin.cn/post/7044948790171664420)
+  - [b站]()(https://www.bilibili.com/video/BV1U3411x7CU?spm_id_from=333.999.0.0)
+
 #### 2021.12.22
 
 - leetcode-969 煎饼排序
