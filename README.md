@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2021.12.25
+
+- leetcode-946 验证栈序列
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/validate-stack-sequences.js)    [掘金](https://juejin.cn/post/7045649181435772965)    [b站](https://www.bilibili.com/video/BV1Kq4y1m7K7/)
+- leetcode-20 有效的括号
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/valid-parentheses.js)    [掘金](https://juejin.cn/post/7045661292882821150)    [b站](https://www.bilibili.com/video/BV1xq4y1m71C/)
+- leetcode-1021 删除最外层的括号
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-outermost-parentheses.js)    [掘金](https://juejin.cn/post/7045676841595568142)    [b站](https://www.bilibili.com/video/BV12i4y19765/)
+
 #### 2021.12.24
 
 - leetcode-682 棒球比赛
