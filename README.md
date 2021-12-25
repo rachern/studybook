@@ -6,6 +6,17 @@
 
 ### Phase-1 算法
 
+#### 2021.12.24
+
+- leetcode-682 棒球比赛
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/baseball-game.js)
+  - [掘金](https://juejin.cn/post/7045318399445958687/)
+  - [b站](https://www.bilibili.com/video/BV1n3411v7eG/)
+- leetcode-844 比较含退格的字符串
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/backspace-string-compare.js)
+  - [掘金](https://juejin.cn/post/7045473257771761671/)
+  - [b站](https://www.bilibili.com/video/BV1BP4y1H7cQ/)
+
 #### 2021.12.23
 
 - leetcode-621 任务调度器
@@ -14,7 +25,7 @@
 - 面试题 03.04. 化栈为队
   - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/implement-queue-using-stacks-lcci.js)
   - [掘金](https://juejin.cn/post/7044948790171664420)
-  - [b站]()(https://www.bilibili.com/video/BV1U3411x7CU?spm_id_from=333.999.0.0)
+  - [b站](https://www.bilibili.com/video/BV1U3411x7CU?spm_id_from=333.999.0.0)
 
 #### 2021.12.22
 
