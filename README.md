@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2021.12.26
+
+- leetcode-1249 移除无效的括号
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/minimum-remove-to-make-valid-parentheses.js)    [掘金](https://juejin.cn/post/7045950867618398239)    [b站](https://www.bilibili.com/video/BV15q4y1m7NX?spm_id_from=333.999.0.0)
+- leetcode-145 二叉树的后续遍历
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/binary-tree-postorder-traversal.js)    [掘金](https://juejin.cn/post/7046054188052119588)    [b站](https://www.bilibili.com/video/BV1QS4y1M7nj?spm_id_from=333.999.0.0)
+- leetcode-331 验证二叉树的前序序列化
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/verify-preorder-serialization-of-a-binary-tree.js)    [掘金](https://juejin.cn/post/7046073718455402509)    [b站](https://www.bilibili.com/video/BV1gL4y1E7iG?spm_id_from=333.999.0.0)
+
 #### 2021.12.25
 
 - leetcode-946 验证栈序列
