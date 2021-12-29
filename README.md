@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2021.12.28
+
+- leetcode-224 基本计算器
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/basic-calculator.js)    [掘金](https://juejin.cn/post/7046801275651883044/)    [b站](https://www.bilibili.com/video/BV1ob4y1Y7h5/)
+
 #### 2021.12.26
 
 - leetcode-1249 移除无效的括号
