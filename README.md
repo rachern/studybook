@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2021.12.29
+
+- leetcode-636 函数的独占时间
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/exclusive-time-of-functions.js)    [掘金](https://juejin.cn/post/7047179625738764324/)    [b站](https://www.bilibili.com/video/BV1HL4y1E7ve/)
+
 #### 2021.12.28
 
 - leetcode-224 基本计算器
