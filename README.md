@@ -6,33 +6,54 @@
 
 ### Phase-1 算法
 
+#### 2021.12.30
+
+- leetcode-1124 表现良好的最长时间段
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/longest-well-performing-interval.js)
+
 #### 2021.12.29
 
 - leetcode-636 函数的独占时间
-  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/exclusive-time-of-functions.js)    [掘金](https://juejin.cn/post/7047179625738764324/)    [b站](https://www.bilibili.com/video/BV1HL4y1E7ve/)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/exclusive-time-of-functions.js)
+  - [掘金](https://juejin.cn/post/7047179625738764324/)
+  - [b站](https://www.bilibili.com/video/BV1HL4y1E7ve/)
 
 #### 2021.12.28
 
 - leetcode-224 基本计算器
-  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/basic-calculator.js)    [掘金](https://juejin.cn/post/7046801275651883044/)    [b站](https://www.bilibili.com/video/BV1ob4y1Y7h5/)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/basic-calculator.js)
+  - [掘金](https://juejin.cn/post/7046801275651883044/)
+  - [b站](https://www.bilibili.com/video/BV1ob4y1Y7h5/)
 
 #### 2021.12.26
 
 - leetcode-1249 移除无效的括号
-  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/minimum-remove-to-make-valid-parentheses.js)    [掘金](https://juejin.cn/post/7045950867618398239)    [b站](https://www.bilibili.com/video/BV15q4y1m7NX?spm_id_from=333.999.0.0)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/minimum-remove-to-make-valid-parentheses.js)
+  - [掘金](https://juejin.cn/post/7045950867618398239)
+  - [b站](https://www.bilibili.com/video/BV15q4y1m7NX?spm_id_from=333.999.0.0)
 - leetcode-145 二叉树的后续遍历
-  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/binary-tree-postorder-traversal.js)    [掘金](https://juejin.cn/post/7046054188052119588)    [b站](https://www.bilibili.com/video/BV1QS4y1M7nj?spm_id_from=333.999.0.0)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/binary-tree-postorder-traversal.js)
+  - [掘金](https://juejin.cn/post/7046054188052119588)
+  - [b站](https://www.bilibili.com/video/BV1QS4y1M7nj?spm_id_from=333.999.0.0)
 - leetcode-331 验证二叉树的前序序列化
-  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/verify-preorder-serialization-of-a-binary-tree.js)    [掘金](https://juejin.cn/post/7046073718455402509)    [b站](https://www.bilibili.com/video/BV1gL4y1E7iG?spm_id_from=333.999.0.0)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/verify-preorder-serialization-of-a-binary-tree.js)
+  - [掘金](https://juejin.cn/post/7046073718455402509)
+  - [b站](https://www.bilibili.com/video/BV1gL4y1E7iG?spm_id_from=333.999.0.0)
 
 #### 2021.12.25
 
 - leetcode-946 验证栈序列
-  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/validate-stack-sequences.js)    [掘金](https://juejin.cn/post/7045649181435772965)    [b站](https://www.bilibili.com/video/BV1Kq4y1m7K7/)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/validate-stack-sequences.js)
+  - [掘金](https://juejin.cn/post/7045649181435772965)
+  - [b站](https://www.bilibili.com/video/BV1Kq4y1m7K7/)
 - leetcode-20 有效的括号
-  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/valid-parentheses.js)    [掘金](https://juejin.cn/post/7045661292882821150)    [b站](https://www.bilibili.com/video/BV1xq4y1m71C/)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/valid-parentheses.js)
+  - [掘金](https://juejin.cn/post/7045661292882821150)
+  - [b站](https://www.bilibili.com/video/BV1xq4y1m71C/)
 - leetcode-1021 删除最外层的括号
-  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-outermost-parentheses.js)    [掘金](https://juejin.cn/post/7045676841595568142)    [b站](https://www.bilibili.com/video/BV12i4y19765/)
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-outermost-parentheses.js)
+  - [掘金](https://juejin.cn/post/7045676841595568142)
+  - [b站](https://www.bilibili.com/video/BV12i4y19765/)
 
 #### 2021.12.24
 
