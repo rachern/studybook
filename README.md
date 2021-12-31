@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2021.12.31
+
+- leetcode-1124 表现良好的最长时间段
+  - [掘金](https://juejin.cn/post/7047924488159100942/)
+  - [b站](https://www.bilibili.com/video/BV1Gm4y1X7DS/)
+
 #### 2021.12.30
 
 - leetcode-1124 表现良好的最长时间段
