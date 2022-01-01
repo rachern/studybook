@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.01.01
+
+- 面试题 02.02. 返回倒数第 k 个节点
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/kth-node-from-end-of-list-lcci.js)
+  - [掘金](https://juejin.cn/post/7048277204785954853/)
+  - [b站](https://www.bilibili.com/video/BV1sL411L7vn/)
+
 #### 2021.12.31
 
 - leetcode-1124 表现良好的最长时间段
