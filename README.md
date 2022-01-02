@@ -6,6 +6,29 @@
 
 ### Phase-1 算法
 
+#### 2022.01.02
+
+- 剑指 Offer 22.链表中倒数第 k 个节点
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.js)
+  - [掘金](https://juejin.cn/post/7048277204785954853/)
+  - [b站](https://www.bilibili.com/video/BV1sL411L7vn/)
+- 剑指 Offer 35.复杂链表的复制
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/fu-za-lian-biao-de-fu-zhi-lcof.js)
+  - [掘金](https://juejin.cn/post/7048553264840704037/)
+  - [b站](https://www.bilibili.com/video/BV1eT4y127HC/)
+- 面试题 02.03.删除中间节点
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/delete-middle-node-lcci.js)
+  - [掘金](https://juejin.cn/post/7048588732898754567/)
+  - [b站](https://www.bilibili.com/video/BV1xL411L7B3/)
+- leetcode-2 两数相加
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/add-two-numbers.js)
+  - [掘金](https://juejin.cn/post/7048643082299899934/)
+  - [b站](https://www.bilibili.com/video/BV1UZ4y1U7Rt/)
+- leercode-143 重排链表
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/reorder-list.js)
+  - [掘金](https://juejin.cn/post/7048661091106160677/)
+  - [b站](https://www.bilibili.com/video/BV1DZ4y1U7it/)
+
 #### 2022.01.01
 
 - 面试题 02.02. 返回倒数第 k 个节点
