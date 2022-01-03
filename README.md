@@ -6,6 +6,29 @@
 
 ### Phase-1 算法
 
+#### 2022.01.03
+
+- 面试题 02.08. 环路检测
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/linked-list-cycle-lcci.js)
+  - [掘金](https://juejin.cn/post/7040749894826459150)
+  - [b站](https://www.bilibili.com/video/BV1HU4y1K7fP?spm_id_from=333.999.0.0)
+- leetcode-707 设计链表
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/design-linked-list.js)
+  - [掘金](https://juejin.cn/post/7049013519299117092)
+  - [b站](https://www.bilibili.com/video/BV1u44y1j7Ve/)
+- 剑指 Offer 18. 删除链表的节点
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/shan-chu-lian-biao-de-jie-dian-lcof.js)
+  - [掘金](https://juejin.cn/post/7049020357315035144)
+  - [b站](https://www.bilibili.com/video/BV16S4y1T7eW/)
+- leetcode-725 分割链表
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/split-linked-list-in-parts.js)
+  - [掘金](https://juejin.cn/post/7049028696569004039)
+  - [b站](https://www.bilibili.com/video/BV1Ub4y1e7kV/)
+- 面试题 02.04. 分割链表
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/partition-list-lcci.js)
+  - [掘金](https://juejin.cn/post/7049033886969364494)
+  - [b站](https://www.bilibili.com/video/BV1444y1j7zn/)
+
 #### 2022.01.02
 
 - 剑指 Offer 22.链表中倒数第 k 个节点
