@@ -6,6 +6,17 @@
 
 ### Phase-1 算法
 
+#### 2022.01.04
+
+- leetcode-779 第K个语法符号
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/k-th-symbol-in-grammar.js)
+  - [掘金](https://juejin.cn/post/7049397583399092232)
+  - [b站](https://www.bilibili.com/video/BV1M34y167bE)
+- 剑指 Offer 10-I 斐波那契数列
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/fei-bo-na-qi-shu-lie-lcof.js)
+  - [掘金](https://juejin.cn/post/7049398851869868046)
+  - [b站](https://www.bilibili.com/video/BV1Rb4y1e77P)
+
 #### 2022.01.03
 
 - 面试题 02.08. 环路检测
@@ -20,7 +31,7 @@
   - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/shan-chu-lian-biao-de-jie-dian-lcof.js)
   - [掘金](https://juejin.cn/post/7049020357315035144)
   - [b站](https://www.bilibili.com/video/BV16S4y1T7eW/)
-- leetcode-725 分割链表
+- leetcode-725 分隔链表
   - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/split-linked-list-in-parts.js)
   - [掘金](https://juejin.cn/post/7049028696569004039)
   - [b站](https://www.bilibili.com/video/BV1Ub4y1e7kV/)
