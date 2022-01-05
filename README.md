@@ -6,6 +6,17 @@
 
 ### Phase-1 算法
 
+#### 2022.01.05
+
+- leetcode-112 路径总和
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/path-sum.js)
+  - [掘金](https://juejin.cn/post/7049741491350011940)
+  - [b站](https://www.bilibili.com/video/BV1gT4y1m7ob)
+- leetcode-105 从前序与中序遍历序列构造二叉树
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/construct-binary-tree-from-preorder-and-inorder-traversal.js)
+  - [掘金](https://juejin.cn/post/7049754448633004046)
+  - [b站](https://www.bilibili.com/video/BV1db4y1e7u1)
+
 #### 2022.01.04
 
 - leetcode-779 第K个语法符号
