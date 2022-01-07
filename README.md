@@ -6,6 +6,17 @@
 
 ### Phase-1 算法
 
+#### 2022.01.07
+
+- leetcode-222 完全二叉树的节点个数
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/count-complete-tree-nodes.js)
+  - [掘金](https://juejin.cn/post/7050519512625446948)
+  - [b站](https://www.bilibili.com/video/BV1gL41157C7/)
+- 剑指 Offer 54. 二叉搜索树的第 k 大节点
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.js)
+  - [掘金](https://juejin.cn/post/7050525796619796487)
+  - [b站](https://www.bilibili.com/video/BV1hZ4y1S71K/)
+
 #### 2022.01.06
 
 - 年度总结
