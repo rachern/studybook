@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.01.08
+
+- 剑指 Offer 26. 树的子结构
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/shu-de-zi-jie-gou-lcof.js)
+  - [掘金](https://juejin.cn/post/7050873476445372430)
+  - [b站](https://www.bilibili.com/video/BV1Wm4y1D7w5)
+
 #### 2022.01.07
 
 - leetcode-222 完全二叉树的节点个数
