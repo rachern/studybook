@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.01.09
+
+- leetcode-144 二叉树的前序遍历
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/binary-tree-preorder-traversal.js)
+  - [掘金](https://juejin.cn/post/7051270343427620871/)
+  - [b站](https://www.bilibili.com/video/BV1jT4y117F9/)
+
 #### 2022.01.08
 
 - 剑指 Offer 26. 树的子结构
