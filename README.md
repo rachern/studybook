@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.01.10
+
+- leetcode-662 二叉树最大宽度
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/maximum-width-of-binary-tree.js)
+  - [掘金](https://juejin.cn/post/7051624096123060255/)
+  - [b站](https://www.bilibili.com/video/BV1X3411e7by/)
+
 #### 2022.01.09
 
 - leetcode-144 二叉树的前序遍历
