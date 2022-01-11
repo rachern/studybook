@@ -6,6 +6,17 @@
 
 ### Phase-1 算法
 
+#### 2022.01.11
+
+- leetcode-589 N 叉树的前序遍历
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/n-ary-tree-preorder-traversal.js)
+  - [掘金](https://juejin.cn/post/7051985353112027166)
+  - [b站](https://www.bilibili.com/video/BV1RZ4y1S72G/)
+- leetcode-226 翻转二叉树
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/invert-binary-tree.js)
+  - [掘金](https://juejin.cn/post/7051994934303260680)
+  - [b站](https://www.bilibili.com/video/BV1WS4y1j7Uc/)
+
 #### 2022.01.10
 
 - leetcode-662 二叉树最大宽度
