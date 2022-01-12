@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.01.12
+
+- 剑指 Offer 32-II. 从上到下打印二叉树II
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.js)
+  - [掘金](https://juejin.cn/post/7052347033184632869/)
+  - [b站](https://www.bilibili.com/video/BV1o44y1j7r5/)
+
 #### 2022.01.11
 
 - leetcode-589 N 叉树的前序遍历
