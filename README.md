@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.01.13
+
+- leetcode-968 监控二叉树
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/binary-tree-cameras.js)
+  - [掘金](https://juejin.cn/post/7052746393135349767)
+  - [b站](https://www.bilibili.com/video/BV1S34y1B7Lu/)
+
 #### 2022.01.12
 
 - 剑指 Offer 32-II. 从上到下打印二叉树II
