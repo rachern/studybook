@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2022.01.16
+
+- leetcode-103 二叉树的锯齿形层序遍历
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/binary-tree-zigzag-level-order-traversal.js)
+- leetcode-110 平衡二叉树
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/balanced-binary-tree.js)
+  - [掘金](https://juejin.cn/post/7053853928483471396/)
+  - [b站](https://www.bilibili.com/video/BV1y34y1B7NU/)
+
 #### 2022.01.14
 
 - leetcode-107 二叉树的层序遍历II
