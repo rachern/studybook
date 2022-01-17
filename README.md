@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.01.17
+
+- leetcode-103 二叉树的锯齿形层序遍历
+  - [掘金](https://juejin.cn/post/7054211943728414733)
+  - [b站](https://www.bilibili.com/video/BV1kr4y1Y76g/)
+
 #### 2022.01.16
 
 - leetcode-103 二叉树的锯齿形层序遍历
