@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.01.18
+
+- 剑指 Offer 40. 最小的k个数
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/zui-xiao-de-kge-shu-lcof.js)
+  - [掘金](https://juejin.cn/post/7054599543853154317)
+  - [b站](https://www.bilibili.com/video/BV1pT4y127BJ/)
+
 #### 2022.01.17
 
 - leetcode-103 二叉树的锯齿形层序遍历
