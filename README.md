@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.01.19
+
+- leetcode-1046 最后一块石头的重量
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/last-stone-weight.js)
+  - [掘金](https://juejin.cn/post/7054965896556576782)
+  - [b站](https://www.bilibili.com/video/BV1xT4y127xG/)
+
 #### 2022.01.18
 
 - 剑指 Offer 40. 最小的k个数
