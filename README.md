@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.01.20
+
+- leetcode-703 数据流中的第 K 大元素
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/kth-largest-element-in-a-stream.js)
+  - [掘金](https://juejin.cn/post/7055339205458657293/)
+  - [b站](https://www.bilibili.com/video/BV1R34y1i74j/)
+
 #### 2022.01.19
 
 - leetcode-1046 最后一块石头的重量
