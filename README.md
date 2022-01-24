@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.01.24
+
+- leetcode-692 前K个高频单词
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/top-k-frequent-words.js)
+
 #### 2022.01.23
 
 - leetcode-373 查找和最小的 K 对数字
