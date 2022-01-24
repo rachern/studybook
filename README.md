@@ -6,6 +6,17 @@
 
 ### Phase-1 算法
 
+#### 2022.01.23
+
+- leetcode-373 查找和最小的 K 对数字
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/find-k-pairs-with-smallest-sums.js)
+  - [掘金](https://juejin.cn/post/7056402582780477453)
+  - [b站](https://www.bilibili.com/video/BV1Rb4y177AN/)
+- leetcode-355 设计推特
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/design-twitter.js)
+  - [掘金](https://juejin.cn/post/7056460032342229023)
+  - [b站](https://www.bilibili.com/video/BV1aL411F7De/)
+
 #### 2022.01.22
 
 - [闭包到底在js中充当着什么角色](https://juejin.cn/post/7056038440839675935)
