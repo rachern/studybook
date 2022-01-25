@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2022.01.25
+
+- leetcode-692 前K个高频单词
+  - [掘金](https://juejin.cn/post/7057117748270202916)
+
+- 面试题 17.20. 连续中值
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/continuous-median-lcci.js)
+  - [掘金](https://juejin.cn/post/7057195171380723720/)
+
 #### 2022.01.24
 
 - leetcode-692 前K个高频单词
