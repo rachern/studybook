@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.01.26
+
+- leetcode-801 积压订单中的订单总数
+  - [github](https://github.com/rachern/studybook-code/commit/29b715472f2b32426ce4bfebe157a321c4e74085)
+  - [掘金](https://juejin.cn/post/7057714460395307016)
+
 #### 2022.01.25
 
 - leetcode-692 前K个高频单词
