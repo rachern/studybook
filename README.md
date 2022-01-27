@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.01.27
+
+- leetcode-264 丑数II
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/ugly-number-ii.js)
+  - [掘金](https://juejin.cn/post/7057931284235943949)
+
 #### 2022.01.26
 
 - leetcode-801 积压订单中的订单总数
