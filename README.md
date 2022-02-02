@@ -6,7 +6,13 @@
 
 ### Phase-1 算法
 
-### 2022.01.29
+#### 2022.01.30
+
+- leetcode-1753 移除石子的最大得分
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/maximum-score-from-removing-stones.js)
+  - [掘金]()(https://juejin.cn/post/7058909231809822757)
+
+#### 2022.01.29
 
 - leetcode-313 超级丑数
   - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/super-ugly-number.js)
