@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.02.03
+
+- 面试题 04.05. 合法二叉搜索树
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/legal-binary-search-tree-lcci.js)
+  - [掘金](https://juejin.cn/post/7060478130850365477)
+
 #### 2022.02.02
 
 - leetcode-104 二叉树的最大深度
