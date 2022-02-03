@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2022.02.02
+
+- leetcode-104 二叉树的最大深度
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/maximum-depth-of-binary-tree.js)
+- leetcode-215 数组中的第 K 个最大元素
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/kth-largest-element-in-an-array.js)
+- leetcode-295 数据流的中位数
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/find-median-from-data-stream.js)
+
 #### 2022.02.01
 
 - leetcode-83 删除排序链表中的重复元素
