@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.02.04
+
+- leetcode-230 二叉搜索树中第K小的元素
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/kth-smallest-element-in-a-bst.js)
+  - [掘金](https://juejin.cn/post/7061104878927478815)
+
 #### 2022.02.03
 
 - 面试题 04.05. 合法二叉搜索树
