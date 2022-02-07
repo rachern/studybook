@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2022.02.07
+
+- leetcode-199 二叉树的右视图
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/binary-tree-right-side-view.js)
+  - [掘金](https://juejin.cn/post/7061889143567024136)
+- leetcode-100 相同的树
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/same-tree.js)
+  - [掘金](https://juejin.cn/post/7062004231451967518)
+
 #### 2022.02.06
 
 - leetcode-215 数组中的第 K 个最大元素
