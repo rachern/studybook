@@ -6,6 +6,14 @@
 
 ### Phase-1 算法
 
+#### 2022.02.08
+
+- leetcode-101 对称二叉树
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/symmetric-tree.js)
+  - [掘金](https://juejin.cn/post/7062371569414176781)
+- 剑指 Offer 68-I. 二叉搜索树的最近公共祖先
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.js)
+
 #### 2022.02.07
 
 - leetcode-199 二叉树的右视图
