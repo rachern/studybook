@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.02.09
+
+- 剑指 Offer 68-I. 二叉搜索树的最近公共祖先
+  - [掘金](https://juejin.cn/post/7062747015574192142/)
+- leetcode-124 二叉树中的最大路径和
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/binary-tree-maximum-path-sum.js)
+
 #### 2022.02.08
 
 - leetcode-101 对称二叉树
