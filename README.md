@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.02.10
+
+- leetcode-347 前 K 个高频元素
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/top-k-frequent-elements.js)
+  - [掘金](https://juejin.cn/post/7063117091842293790/)
+
 #### 2022.02.09
 
 - 剑指 Offer 68-I. 二叉搜索树的最近公共祖先
