@@ -6,6 +6,17 @@
 
 ### Phase-1 算法
 
+#### 2022.02.13
+
+- leetcode-104 二叉树的最大深度
+  - [掘金](https://juejin.cn/post/7064093567165136904/)
+- leetcode-973 最接近原点的 K 个点
+  - [掘金](https://juejin.cn/post/7064102419914817573)
+- leetcode-451 根据字符出现频率排序
+  - [掘金](https://juejin.cn/post/7064227468617449508/)
+- leetcode-547 省份数量
+  - [leetcode](https://github.com/rachern/studybook-code/blob/main/algorithm/number-of-provinces.js)
+
 #### 2022.02.12
 
 - leetcode-451 根据字符出现频率排序
