@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2022.02.12
+
+- leetcode-451 根据字符出现频率排序
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/sort-characters-by-frequency.js)
+- leetcode-973 最接近原点的 K 个点
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/k-closest-points-to-origin.js)
+- leetcode-124 二叉树中的最大路径和
+  - [掘金](https://juejin.cn/post/7063739282862637086)
+
 #### 2022.02.10
 
 - leetcode-347 前 K 个高频元素
