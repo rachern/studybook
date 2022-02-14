@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.02.14
+
+- [并查集，解决连通问题的利器](https://juejin.cn/post/7064598208432832543)
+- leetcode-200 岛屿数量
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/number-of-islands.js)
+
 #### 2022.02.13
 
 - leetcode-104 二叉树的最大深度
