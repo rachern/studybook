@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2022.02.16
+
+- leetcode-200 岛屿数量
+  - [掘金](https://juejin.cn/post/7065341875078561823)
+- leetcode-990 等式方程的可满足性
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/satisfiability-of-equality-equations.js)
+- leetcode-684 冗余连接
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/redundant-connection.js)
+
 #### 2022.02.15
 
 - leetcode-547 省份数量
