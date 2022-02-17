@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.02.17
+
+- leetcode-990 等式方程的可满足性
+  - [掘金](https://juejin.cn/post/7065711990559211557/)
+- leetcode-1319 连通网络的操作次数
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/number-of-operations-to-make-network-connected.js)
+
 #### 2022.02.16
 
 - leetcode-200 岛屿数量
