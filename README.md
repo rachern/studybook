@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2022.02.18
+
+- leetcode-684 冗余连接
+  - [掘金](https://juejin.cn/post/7066080706929098783/)
+- leetcode-128 最长连续序列
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/longest-consecutive-sequence.js)
+- leetcode-947 移除最多的同行或同列石头
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/most-stones-removed-with-same-row-or-column.js)
+
 #### 2022.02.17
 
 - leetcode-990 等式方程的可满足性
