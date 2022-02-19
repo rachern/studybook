@@ -6,6 +6,15 @@
 
 ### Phase-1 算法
 
+#### 2022.02.19
+
+- leetcode-1319 连通网络的操作次数
+  - [掘金](https://juejin.cn/post/7066468475937488909/)
+- leetcode-1202 交换字符串中的元素
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/smallest-string-with-swaps.js)
+- leetcode-721 账户合并
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/accounts-merge.js)
+
 #### 2022.02.18
 
 - leetcode-684 冗余连接
