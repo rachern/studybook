@@ -6,6 +6,17 @@
 
 ### Phase-1 算法
 
+#### 2022.02.20
+
+- leetcode-347 前 K 个高频元素
+  - [b站](https://www.bilibili.com/video/BV1na411C7bY/)
+- 剑指 Offer 68-I. 二叉搜索树的最近公共祖先
+  - [b站](https://www.bilibili.com/video/BV1fr4y167Cd/)
+- leetcode-128 最长连续序列
+  - [掘金](https://juejin.cn/post/7066840696207966221/)
+- leetcode-721 账户合并
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/accounts-merge.js)
+
 #### 2022.02.19
 
 - leetcode-1319 连通网络的操作次数
