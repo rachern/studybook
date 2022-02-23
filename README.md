@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.02.23
+
+- leetcode-721 账户合并
+  - [掘金](https://juejin.cn/post/7067938468579508261/)
+- leetcode-685 冗余连接II
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/redundant-connection-ii.js)
+
 #### 2022.02.22
 
 - leetcode-1202 交换字符串中的元素
