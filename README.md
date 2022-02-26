@@ -6,6 +6,13 @@
 
 ### Phase-1 算法
 
+#### 2022.02.26
+
+- leetcode-685 冗余连接II
+  - [掘金](https://juejin.cn/post/7068945075199279118/)
+- leetcode-239 滑动窗口最大值
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/sliding-window-maximum.js)
+
 #### 2022.02.24
 
 - leetcode-765 情侣牵手
