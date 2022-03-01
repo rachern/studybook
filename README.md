@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.03.01
+
+- leetcode-470 用 Rand7() 实现 Rand10()
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/implement-rand10-using-rand7.js)
+  - [掘金](https://juejin.cn/post/7070176582010142727/)
+
 #### 2022.02.27
 
 - leetcode-239 滑动窗口最大值
