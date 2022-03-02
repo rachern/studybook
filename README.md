@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.03.02
+
+- leetcode-11 盛最多水的容器
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/container-with-most-water.js)
+  - [掘金](https://juejin.cn/post/7070534858392469512/)
+
 #### 2022.03.01
 
 - leetcode-470 用 Rand7() 实现 Rand10()
