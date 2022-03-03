@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.03.03
+
+- leetcode-394 字符串解码
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/decode-string.js)
+  - [掘金](https://juejin.cn/post/7070898300743843876/)
+
 #### 2022.03.02
 
 - leetcode-11 盛最多水的容器
