@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.03.10
+
+- 面试题 17.14. 最小K个数
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/smallest-k-lcci.js)
+
 #### 2022.03.08
 
 - leetcode-75 颜色分类
