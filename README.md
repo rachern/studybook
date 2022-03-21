@@ -9,7 +9,7 @@
 #### 2022.03.21
 
 - leetcode-148 排序链表
-  - [github]()
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/sort-list.js)
 
 #### 2022.03.10
 
