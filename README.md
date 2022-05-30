@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.05.31
+
+- 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.js)
+
 #### 2022.03.29
 
 - 初始化 mini-vue3 项目
