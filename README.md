@@ -6,6 +6,12 @@
 
 ### Phase-1 算法
 
+#### 2022.06.01
+
+- 912. 排序数组
+
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/sort-an-array.js)
+
 #### 2022.05.31
 
 - 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
