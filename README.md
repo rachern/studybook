@@ -6,10 +6,14 @@
 
 ### Phase-1 算法
 
+#### 2022.06.04
+
+- 剑指 Offer 51. 数组中的逆序对
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/shu-zu-zhong-de-ni-xu-dui-lcof.js)
+
 #### 2022.06.01
 
-- 912. 排序数组
-
+- 912.排序数组
   - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/sort-an-array.js)
 
 #### 2022.05.31
