@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.06.05
+
+- 148.排序链表
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/sort-list.js)
+
 #### 2022.06.04
 
 - 剑指 Offer 51. 数组中的逆序对
