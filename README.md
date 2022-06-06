@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.06.06
+
+- 1305.两棵二叉搜索树中的所有元素
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/all-elements-in-two-binary-search-trees.js)
+
 #### 2022.06.05
 
 - 148.排序链表
