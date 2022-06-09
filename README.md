@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.06.09
+
+- 面试题 04.08. 首个共同祖先（解法二）
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/first-common-ancestor-lcci.js)
+
 #### 2022.06.07
 
 - 面试题 04.08. 首个共同祖先
