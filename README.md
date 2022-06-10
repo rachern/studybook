@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.06.11
+
+- 23.合并K个升序链表
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/merge-k-sorted-lists.js)
+
 #### 2022.06.09
 
 - 面试题 04.08. 首个共同祖先（解法二）
