@@ -10,6 +10,8 @@
 
 - 23.合并K个升序链表
   - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/merge-k-sorted-lists.js)
+- 1508.子数组和排序后的区间和
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/range-sum-of-sorted-subarray-sums.js)
 
 #### 2022.06.09
 
