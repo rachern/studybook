@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.06.14
+
+- 327.区间和的个数
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/count-of-range-sum.js)
+
 #### 2022.06.11
 
 - 23.合并K个升序链表
