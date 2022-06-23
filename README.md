@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.06.23
+
+- 56.合并区间
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/merge-intervals.js)
+
 #### 2022.06.17
 
 - 53.最大子数组和
