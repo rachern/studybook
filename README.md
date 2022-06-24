@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.06.24
+
+- 1288.删除被覆盖区间
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/remove-covered-intervals.js)
+
 #### 2022.06.23
 
 - 56.合并区间
