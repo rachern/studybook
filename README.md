@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.06.26
+
+- 491.递增子序列
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/increasing-subsequences.js)
+
 #### 2022.06.24
 
 - 1288.删除被覆盖区间
