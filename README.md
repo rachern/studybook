@@ -6,6 +6,11 @@
 
 ### Phase-1 算法
 
+#### 2022.06.27
+
+- 面试题 04.12. 求和路径
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/paths-with-sum-lcci.js)
+
 #### 2022.06.26
 
 - 491.递增子序列
