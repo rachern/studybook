@@ -10,6 +10,8 @@
 
 - 210.课程表 II
   - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/course-schedule-ii.js)
+- 1122.数组的相对排序
+  - [github](https://github.com/rachern/studybook-code/blob/main/algorithm/relative-sort-array.js)
 
 #### 2022.06.29
 
